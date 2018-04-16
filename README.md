@@ -17,5 +17,6 @@ This project is licensed under the MIT License. See also the [LICENSE](https://g
 
 ## References
 * Bouwer, H., Rice, R.C., 1976. A slug test for determining hydraulic conductivity of unconfined aquifers with completely or partially penetrating wells. Water Resour. Res. 12, 423--428. [https://doi.org/10.1029/WR012i003p00423](https://doi.org/10.1029/WR012i003p00423)
+* Butler, J.J., 1997. The Design, Performance and Analysis of Slug Tests. CRC Press.
 * Hvorslev, M.J., 1951. Time lag and soil permeability in groundwater observations. US Army Bull. 36.
 * Zlotnik, V., 1994. Interpretation of slug and packer tests in anisotropic aquifers. Ground Water 32, 761--766. [https://doi.org/10.1111/j.1745-6584.1994.tb00917.x](https://doi.org/10.1111/j.1745-6584.1994.tb00917.x)
